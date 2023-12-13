@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "clean-sunspot-216912",
+  "private_key_id": "7aab3ec8a4d641663ba463f8c5e21cce5c301047",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyYM7j40ulyKH2\njxLR3pAKw4UN24pXscOTX97PMsWPQACRWcuJ2SRCI/bUaGJMvQbaEKhLZbtzlyX6\nkFTAfAtNKb698Vw4QUa4zMywlAR3F52BvEKv+bb50ONZSk9vGnWbZhGsBn9jOgqm\nSYciQp1/9Zj1dzV6TG6pQO/F6yhQxAqeA6+D7lyFHSkYiFl6CT1/HMhmFIgbOMoX\n6aOq5TlVogk+MPypTm9NTVTPrAJJ2EVM3UwAEuWAIZfdk6dIEpeC4ltwpac5Mzqu\n3Ay6uhtgT+Uw2lgsDKozb2yk/cEB3a9OlutNsbWeIbScd+Ds2pWe4EfNILvImNZz\nSvNi2YGRAgMBAAECggEAA18ikfqmH6ZU72LhbW+aQ+XRskMb0JAG3RaDEOIKC2zf\nhd/PYdXlok1pOTcW4pHxGvaVI8WyvxrUiDGptHCzyvvWw+LXxiVvt4cBeHX3xqN+\n4eijzw02iO7KmVG3AifbILqTa2+9ASxj7qQ1pm9haD2FbGBaNatTrSXR0mkhPDOM\nSyfCTc74nguNbx6psZUxn236TtGErq5yAIJ/wKd4wmcuonP/5E+y5D7wyP0zs9YA\n1KS/XC4NIW4TOeYE1q7eLq7GczPbDWzeJuPc0n2C42DHB4wgDfNVteVp8H+ZOqbv\nIloKA0XXPN38Au5DLB81SUIn3DrMsfvPXqBEpAfyNQKBgQDtkCjdhGRGjky6N5bw\n0Vgh87NivHYQlXr0NNeMyaP6IA4VH5Xk5UYsuYvKl/L14XWILrULBcaIpn0NG+Pn\n//o3dqnHQtHOwRMNE5BIkw/sQ1E0Vp1RBiXq3AIuelA1I2gc473VSvCThVPlF9z+\nYW0eWTTxpwjdAA5UNsQZQ0akpQKBgQDAOMcKgXi93zhItt4f6mGat9/eFYgLS2/j\nBOk4RoYH5ud8879yAwt5GFzxGOGrUkhAeLW2OHg2uavYnwU0KGHEbB64CgMeNehd\nMD483+/ADnFaw17Y8aOnKo5KbfAYcwOXa+WrJ58v5m+zvWFB1rpqAEuTp2CuhXqT\nF6lB6HsZfQKBgQCbC+xv7xlXJ0aSfveHgsonlptshJ314umVeut3mp7n/4XRaYT2\nGGF9jTfcaOGMcrK3x+wnHoTd6PNS2/IaF+ohytOyFj1C2KZrcWpIw5qv05urMiCI\noh+bMi5GUVQJ6mrn+AeMrtVnIqyHp9R3PfTuysAQO7lAK+ouMnQ4HL19dQKBgA+d\njS3hTrm+BIiDso/NLpivD1SvUxn3yuMaZwfXUtQZgfy4oHjWnnv76rD7YHnWeWAj\nbj+bXsizVK6IXJfcH/UhA23YAmDV6EaJwMSZPJTRl4vUC0R8fNr7rguF2tdhoI0Q\nitvYoCn4AmMLo3cBxqsN0xXvpv8GgOqqJWnhRP7RAoGAPusQLNa8xX+xQLrUEQH8\nayzp8wSd2qh20s0V+aJiQLVoBzgH1fhg8W6qYT932h30lcKN5bX4tohytb/uuqNI\nngSy7Z2soWwR7cpSdfGjx3a0bT5zLcn4kK5BD4TWzJNjsDSpHjZG6Equ669Thf3v\n/DoMauG1iwVOOj7tNCNq8a0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyecto-ds@clean-sunspot-216912.iam.gserviceaccount.com",
+  "client_id": "113227717893834407694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyecto-ds%40clean-sunspot-216912.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
